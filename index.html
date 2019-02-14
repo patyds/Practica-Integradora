@@ -1,27 +1,107 @@
 <html>
     <head>
         <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
         <title>Tequila 1800</title>
         <link rel="stylesheet" href="styles.css" />
         <script src="aplicacion.js" async></script>
     <head>
     <body>
         <div id="header">
-            <img id="logo" src="assets/logo.png" alt="" />
+            <img id="logo" src="assets/logo-1800.png" alt="" />
         </div>
         <div id="verify-container" class="container">
-            <h1>Verifica tu <b>Tequila 1800</b></h1>
-            <div class="mdc-text-field">
-                <input type="text" id="my-text-field" class="mdc-text-field__input">
-                <label class="mdc-floating-label" for="my-text-field">Hint text</label>
-                <div class="mdc-line-ripple"></div>
+            <div class="mdc-layout-grid">
+                <div class="mdc-layout-grid__inner">
+                    <div class="mdc-layout-grid__cell--span-3">
+                        <h1>Verifica tu <b>Tequila 1800</b></h1>
+                        <div class="mdc-text-field">
+                            <input type="text" id="tequila-id" class="mdc-text-field__input">
+                            <label class="mdc-floating-label" for="my-text-field">Número de identificación</label>
+                            <div class="mdc-line-ripple"></div>
+                        </div>
+                        <button id="tequila-btn" class="mdc-button">
+                            <span class="mdc-button__label">Verificar</span>
+                        </button>
+                    </div>
+                    <div class="mdc-layout-grid__cell--span-6 info-content">
+                        <h2>Información</h2>
+                        <p>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat natus consectetur distinctio consequuntur omnis officiis amet error qui animi quo aliquam,
+                            quis aliquid nemo facere ducimus ex dicta recusandae nutella! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat natus consectetur distinctio consequuntur omnis officiis amet error qui animi quo aliquam,
+                            quis aliquid nemo facere ducimus ex dicta recusandae nutella! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat natus consectetur distinctio consequuntur omnis officiis amet error qui animi quo aliquam,
+                            quis aliquid nemo facere ducimus ex dicta recusandae nutella!
+                        </p>
+                        <ul>
+                            <li><b>Precio recomendado: $1800.18</b></li>
+                            <li>Porcentaje de alcohol: 30%</li>
+                            <li>Sabor: Roble</li>
+                            <li>Textura: Ligera</li>
+                            <li>Añejez: Cristalino</li>
+                        </ul>
+                    </div>
+                    <div id="tequila-img" class="mdc-layout-grid__cell--span-3">
+                        <img id="tequila" src="./assets/1800-anejo-full-1.png" alt="">
+                    </div>
+                </div>
             </div>
         </div>
         <div id="places-container" class="container">
-
+            <div class="mdc-layout-grid">
+                <div class="mdc-layout-grid__inner">
+                    <div class="mdc-layout-grid__cell--span-6">
+                        <h1>Ubica tiendas cerca de ti</h1>
+                    </div>
+                    <div class="mdc-layout-grid__cell--span-6"></div>
+                </div>
+            </div>
         </div>
         <div id="comments-container" class="container">
-
+                <div class="mdc-layout-grid">
+                    <div class="mdc-layout-grid__inner">
+                        <div class="mdc-layout-grid__cell--span-4"></div>
+                        <div class="mdc-layout-grid__cell--span-4">
+                            <h1>Envíanos comentarios</h1>
+                            <form action="./grax.html">
+                                <!-- No. identificación, Nombre, correo, comentario, botón -->
+                                <div class="field">
+                                    <div class="mdc-text-field">
+                                        <input type="text" id="my-text-field" class="mdc-text-field__input">
+                                        <label class="mdc-floating-label" for="my-text-field">Nombre</label>
+                                        <div class="mdc-line-ripple"></div>
+                                    </div>
+                                </div>
+                                <div class="field">
+                                    <div class="mdc-text-field">
+                                        <input type="text" id="my-text-field" class="mdc-text-field__input">
+                                        <label class="mdc-floating-label" for="my-text-field">Correo electrónico</label>
+                                        <div class="mdc-line-ripple"></div>
+                                    </div>
+                                </div>
+                                <div class="field">
+                                    <div class="mdc-text-field">
+                                        <input type="text" id="my-text-field" class="mdc-text-field__input">
+                                        <label class="mdc-floating-label" for="my-text-field">Número de identificación del tequila</label>
+                                        <div class="mdc-line-ripple"></div>
+                                    </div>
+                                </div>
+                                <div class="field">
+                                    <div class="mdc-text-field mdc-text-field--textarea">
+                                        <textarea id="textarea" class="mdc-text-field__input" rows="8" cols="40"></textarea>
+                                        <div class="mdc-notched-outline">
+                                            <div class="mdc-notched-outline__leading"></div>
+                                            <div class="mdc-notched-outline__notch">
+                                                <label for="textarea" class="mdc-floating-label">Textarea Label</label>
+                                            </div>
+                                            <div class="mdc-notched-outline__trailing"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="mdc-layout-grid__cell--span-4"></div>
+                    </div>
+                </div>
         </div>
     <body>
 </html>

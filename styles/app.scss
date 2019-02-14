@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,700');
 @import "@material/textfield/mdc-text-field";
+@import "@material/layout-grid/mdc-layout-grid";
+@import "@material/button/mdc-button";
 
 * {
     padding: 0;
@@ -17,7 +19,7 @@
     align-items: center;
 
     #logo {
-        width: 70px;
+        width: 250px;
         filter: invert(100%);
     }
 }
@@ -31,7 +33,49 @@
 }
 
 #verify-container {
+    .mdc-text-field.mdc-ripple-upgraded {
+        margin-top: 20px;
+        width: 100%;
+        input {
+            width: 100%;
+        }
+    }
 
+    #tequila-btn {
+        margin-top: 20px;
+        background-color: black;
+        color: white;
+        font-weight: 700;
+    }
+
+    .info-content {
+        h2 {
+            margin-bottom: 20px;
+        }
+
+        padding: 0 50px;
+        text-align: justify;
+
+        ul {
+            margin-top: 20px;
+            list-style-position: inside;
+
+            li {
+                line-height: 170%;
+            }
+        }
+
+        @media screen and (max-width: 768px) {
+            padding: 0;
+        }
+    }
+
+    #tequila-img {
+        text-align: center;
+        #tequila {
+            width: 50%;
+        }
+    }
 }
 
 #places-container {
@@ -41,4 +85,12 @@
 #comments-container {
     color: white;
     background-color: black;
+
+    .mdc-text-field {
+        margin-top: 20px;
+        width: 100%;
+        input {
+            width: 100%;
+        }
+    }
 }
