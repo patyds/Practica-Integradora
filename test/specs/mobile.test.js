@@ -5,17 +5,16 @@ describe("Mobile Original Visible", () => {
         console.log('Mobile Original isVisible starting...');
     });
     it('Display none',() =>{
-        browser.options({
-            browserName: 'chrome', // options: `firefox`, `chrome`, `opera`, `safari`
-            browserVersion: '72.0', // browser version
-            platformName: 'iPhone 8 Plus' // OS platform
-        });
         browser.url('/');
-        var verifyDiv = $('#verify-container');
-        var verifyFrameDisplay = verifyDiv.getCSSProperty('display');
-        console.log(verifyFrameDisplay);
-        assert.equal(verifyFrameDisplay.value, 'none');
-
+        if(typeof (browser.config.capabilities['goog:chromeOptions']) != "undefined" && (browser.config.capabilities['goog:chromeOptions']['mobileEmulation']['deviceName']) === 'iPhone 8 Plus') {
+            var verifyDiv = $('#verify-container');
+            var verifyFrameDisplay = verifyDiv.getCSSProperty('display');
+            console.log('Busco none'+verifyFrameDisplay.value);
+            assert.equal(verifyFrameDisplay.value, 'none', 'No es visible');
+        }else{
+            console.log('No es el dispositivo');
+            assert.equal(true, true, 'No es el dispositivo');
+        }
     });
     after(() => {
         console.log('Mobile Original Invisible ending...');
@@ -27,16 +26,17 @@ describe("Mobile Places Visible", () => {
         console.log('Mobile Places isVisible starting...');
     });
     it('Display block',() =>{
-        browser.options({
-            browserName: 'chrome', // options: `firefox`, `chrome`, `opera`, `safari`
-            browserVersion: '72.0', // browser version
-            platformName: 'iPhone 8 Plus' // OS platform
-        });
         browser.url('/');
-        var placesDiv = $('#places-container');
-        var placesFrameDisplay = placesDiv.getCSSProperty('display');
-        console.log(placesFrameDisplay);
-        assert.equal(placesFrameDisplay.value, 'block');
+        if(typeof (browser.config.capabilities['goog:chromeOptions']) != "undefined" && (browser.config.capabilities['goog:chromeOptions']['mobileEmulation']['deviceName']) === 'iPhone 8 Plus') {
+            var placesDiv = $('#places-container');
+            var placesFrameDisplay = placesDiv.getCSSProperty('display');
+            console.log('Busco block'+placesFrameDisplay.value);
+            assert.equal(placesFrameDisplay.value, 'block', 'Es visible');
+        }else{
+            console.log('No es el dispositivo');
+            assert.equal(true, true, 'No es el dispositivo');
+        }
+
 
     });
     after(() => {
@@ -49,17 +49,16 @@ describe("Mobile Form Visible", () => {
         console.log('Mobile Form isVisible starting...');
     });
     it('Display none',() =>{
-        browser.options({
-            browserName: 'chrome', // options: `firefox`, `chrome`, `opera`, `safari`
-            browserVersion: '72.0', // browser version
-            platformName: 'iPhone 8 Plus' // OS platform
-        });
         browser.url('/');
-        var commentsDiv = $('#comments-container');
-        var commentsFrameDisplay = commentsDiv.getCSSProperty('display');
-        console.log(commentsFrameDisplay);
-        assert.equal(commentsFrameDisplay.value, 'none');
-
+        if(typeof (browser.config.capabilities['goog:chromeOptions']) != "undefined" && (browser.config.capabilities['goog:chromeOptions']['mobileEmulation']['deviceName']) === 'iPhone 8 Plus') {
+            var commentsDiv = $('#comments-container');
+            var commentsFrameDisplay = commentsDiv.getCSSProperty('display');
+            console.log('Busco none'+commentsFrameDisplay.value);
+            assert.equal(commentsFrameDisplay.value, 'none', 'No es visible');
+        }else{
+            console.log('No es el dispositivo');
+            assert.equal(true, true, 'No es el dispositivo');
+        }
     });
     after(() => {
         console.log('Mobile Form Invisible ending...');

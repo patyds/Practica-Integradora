@@ -46,20 +46,31 @@ exports.config = {
     // Sauce Labs platform configurator - a great tool to configure your capabilities:
     // https://docs.saucelabs.com/reference/platforms-configurator
     //
+    suites: {
+        mobile: [
+            './test/specs/mobile.test.js'
+        ],
+        pc: [
+            './test/specs/pc.test.js'
+        ],
+        tablet: [
+            './test/specs/tablet.test.js'
+        ]
+    },
     capabilities: [{
         //PC
-        maxInstances: 1,
+        maxInstances: 3,
         browserName: 'chrome',
     },{
         //Mobile
-        maxInstances: 1,
+        maxInstances: 3,
         browserName: 'chrome',
         'goog:chromeOptions': {
             "mobileEmulation":{"deviceName": "iPhone 8 Plus"},
         }
     }, {
         //Tablet
-        maxInstances: 1,
+        maxInstances: 3,
         browserName: 'chrome',
         'goog:chromeOptions': {
             "mobileEmulation":{"deviceName": "iPad"},

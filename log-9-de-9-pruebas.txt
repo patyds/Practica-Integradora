@@ -1,0 +1,685 @@
+
+> practica-integradora@1.0.0 test C:\Users\Charlhye\Documents\ITESM\8.Octavo\Labo web\Practica-Integradora
+> wdio
+
+2019-02-21T08:55:47.247Z DEBUG wdio-config: @wdio/sync found, running tests synchronous
+2019-02-21T08:55:48.029Z DEBUG wdio-cli:run: Run suite with config C:\Users\Charlhye\Documents\ITESM\8.Octavo\Labo web\Practica-Integradora\wdio.conf.js and params { _: [], '$0': 'node_modules\\@wdio\\cli\\bin\\wdio.js' }
+c🕐  1 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  2 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  3 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  4 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  5 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  6 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  7 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  8 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕕  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕖  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕗  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕘  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕙  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕚  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕛  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕐  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕑  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕒  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕓  9 running, 0 passed, 0 failed, 9 total (0% completed)
+🕔  8 running, 1 passed, 0 failed, 9 total (11% completed)
+🕕  8 running, 1 passed, 0 failed, 9 total (11% completed)
+🕖  8 running, 1 passed, 0 failed, 9 total (11% completed)
+🕗  8 running, 1 passed, 0 failed, 9 total (11% completed)
+🕘  8 running, 1 passed, 0 failed, 9 total (11% completed)
+🕙  8 running, 1 passed, 0 failed, 9 total (11% completed)
+🕚  8 running, 1 passed, 0 failed, 9 total (11% completed)
+🕛  8 running, 1 passed, 0 failed, 9 total (11% completed)
+🕐  8 running, 1 passed, 0 failed, 9 total (11% completed)
+🕑  8 running, 1 passed, 0 failed, 9 total (11% completed)
+🕒  8 running, 1 passed, 0 failed, 9 total (11% completed)
+🕓  8 running, 1 passed, 0 failed, 9 total (11% completed)
+🕔  8 running, 1 passed, 0 failed, 9 total (11% completed)
+🕕  8 running, 1 passed, 0 failed, 9 total (11% completed)
+🕖  7 running, 2 passed, 0 failed, 9 total (22% completed)
+🕗  7 running, 2 passed, 0 failed, 9 total (22% completed)
+🕘  6 running, 3 passed, 0 failed, 9 total (33% completed)
+🕙  6 running, 3 passed, 0 failed, 9 total (33% completed)
+🕚  5 running, 4 passed, 0 failed, 9 total (44% completed)
+🕛  5 running, 4 passed, 0 failed, 9 total (44% completed)
+🕐  4 running, 5 passed, 0 failed, 9 total (56% completed)
+🕑  4 running, 5 passed, 0 failed, 9 total (56% completed)
+🕒  3 running, 6 passed, 0 failed, 9 total (67% completed)
+🕓  3 running, 6 passed, 0 failed, 9 total (67% completed)
+🕔  2 running, 7 passed, 0 failed, 9 total (78% completed)
+🕕  2 running, 7 passed, 0 failed, 9 total (78% completed)
+🕖  1 running, 8 passed, 0 failed, 9 total (89% completed)
+🕗  1 running, 8 passed, 0 failed, 9 total (89% completed)
+c
+"dot" Reporter:
+...........................
+
+Stdout:
+2019-02-21T08:55:48.161Z INFO wdio-cli:Launcher: Run onPrepare hook
+2019-02-21T08:55:50.214Z INFO wdio-local-runner: Start worker 0-0 with arg: 
+2019-02-21T08:55:50.228Z INFO wdio-local-runner: Start worker 1-0 with arg: 
+2019-02-21T08:55:50.243Z INFO wdio-local-runner: Start worker 2-0 with arg: 
+2019-02-21T08:55:50.256Z INFO wdio-local-runner: Start worker 0-1 with arg: 
+2019-02-21T08:55:50.270Z INFO wdio-local-runner: Start worker 1-1 with arg: 
+2019-02-21T08:55:50.290Z INFO wdio-local-runner: Start worker 2-1 with arg: 
+2019-02-21T08:55:50.308Z INFO wdio-local-runner: Start worker 0-2 with arg: 
+2019-02-21T08:55:50.337Z INFO wdio-local-runner: Start worker 1-2 with arg: 
+2019-02-21T08:55:50.394Z INFO wdio-local-runner: Start worker 2-2 with arg: 
+[1-0] 2019-02-21T08:55:51.166Z DEBUG wdio-config: @wdio/sync found, running tests synchronous
+[0-0] 2019-02-21T08:55:51.199Z DEBUG wdio-config: @wdio/sync found, running tests synchronous
+[2-0] 2019-02-21T08:55:51.449Z DEBUG wdio-config: @wdio/sync found, running tests synchronous
+[0-1] 2019-02-21T08:55:51.451Z DEBUG wdio-config: @wdio/sync found, running tests synchronous
+[1-1] 2019-02-21T08:55:51.527Z DEBUG wdio-config: @wdio/sync found, running tests synchronous
+[2-1] 2019-02-21T08:55:51.565Z DEBUG wdio-config: @wdio/sync found, running tests synchronous
+[1-0] 2019-02-21T08:55:51.675Z INFO wdio-local-runner: Run worker command: run
+[1-0] 2019-02-21T08:55:51.678Z DEBUG wdio-local-runner:utils: initialise wdio service "selenium-standalone"
+[0-0] 2019-02-21T08:55:51.725Z INFO wdio-local-runner: Run worker command: run
+[0-0] 2019-02-21T08:55:51.728Z DEBUG wdio-local-runner:utils: initialise wdio service "selenium-standalone"
+[0-2] 2019-02-21T08:55:51.816Z DEBUG wdio-config: @wdio/sync found, running tests synchronous
+[0-1] 2019-02-21T08:55:51.949Z INFO wdio-local-runner: Run worker command: run
+[0-1] 2019-02-21T08:55:51.953Z DEBUG wdio-local-runner:utils: initialise wdio service "selenium-standalone"
+[1-1] 2019-02-21T08:55:51.988Z INFO wdio-local-runner: Run worker command: run
+[1-1] 2019-02-21T08:55:51.991Z DEBUG wdio-local-runner:utils: initialise wdio service "selenium-standalone"
+[2-1] 2019-02-21T08:55:52.019Z INFO wdio-local-runner: Run worker command: run
+[2-1] 2019-02-21T08:55:52.022Z DEBUG wdio-local-runner:utils: initialise wdio service "selenium-standalone"
+[1-0] 2019-02-21T08:55:52.090Z DEBUG wdio-local-runner:utils: init remote session
+[1-0] 2019-02-21T08:55:52.136Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session
+[1-0] 2019-02-21T08:55:52.136Z INFO webdriver: DATA { capabilities: 
+   { alwaysMatch: { browserName: 'chrome', 'goog:chromeOptions': [Object] },
+     firstMatch: [ {} ] },
+  desiredCapabilities: 
+   { browserName: 'chrome',
+     'goog:chromeOptions': { mobileEmulation: [Object] } } }
+[2-0] 2019-02-21T08:55:52.173Z INFO wdio-local-runner: Run worker command: run
+[2-0] 2019-02-21T08:55:52.175Z DEBUG wdio-local-runner:utils: initialise wdio service "selenium-standalone"
+[0-0] 2019-02-21T08:55:52.321Z DEBUG wdio-local-runner:utils: init remote session
+[0-2] 2019-02-21T08:55:52.365Z INFO wdio-local-runner: Run worker command: run
+[0-2] 2019-02-21T08:55:52.368Z DEBUG wdio-local-runner:utils: initialise wdio service "selenium-standalone"
+[1-1] 2019-02-21T08:55:52.370Z DEBUG wdio-local-runner:utils: init remote session
+[0-0] 2019-02-21T08:55:52.380Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session
+[0-0] 2019-02-21T08:55:52.381Z INFO webdriver: DATA { capabilities: { alwaysMatch: { browserName: 'chrome' }, firstMatch: [ {} ] },
+  desiredCapabilities: { browserName: 'chrome' } }
+[1-2] 2019-02-21T08:55:52.409Z DEBUG wdio-config: @wdio/sync found, running tests synchronous
+[1-1] 2019-02-21T08:55:52.440Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session
+[1-1] 2019-02-21T08:55:52.440Z INFO webdriver: DATA { capabilities: 
+   { alwaysMatch: { browserName: 'chrome', 'goog:chromeOptions': [Object] },
+     firstMatch: [ {} ] },
+  desiredCapabilities: 
+   { browserName: 'chrome',
+     'goog:chromeOptions': { mobileEmulation: [Object] } } }
+[0-1] 2019-02-21T08:55:52.454Z DEBUG wdio-local-runner:utils: init remote session
+[0-1] 2019-02-21T08:55:52.552Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session
+[0-1] 2019-02-21T08:55:52.552Z INFO webdriver: DATA { capabilities: { alwaysMatch: { browserName: 'chrome' }, firstMatch: [ {} ] },
+  desiredCapabilities: { browserName: 'chrome' } }
+[2-1] 2019-02-21T08:55:52.577Z DEBUG wdio-local-runner:utils: init remote session
+[2-1] 2019-02-21T08:55:52.642Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session
+[2-1] 2019-02-21T08:55:52.642Z INFO webdriver: DATA { capabilities: 
+   { alwaysMatch: { browserName: 'chrome', 'goog:chromeOptions': [Object] },
+     firstMatch: [ {} ] },
+  desiredCapabilities: 
+   { browserName: 'chrome',
+     'goog:chromeOptions': { mobileEmulation: [Object] } } }
+[2-0] 2019-02-21T08:55:52.664Z DEBUG wdio-local-runner:utils: init remote session
+[2-2] 2019-02-21T08:55:52.684Z DEBUG wdio-config: @wdio/sync found, running tests synchronous
+[2-0] 2019-02-21T08:55:52.703Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session
+[2-0] 2019-02-21T08:55:52.703Z INFO webdriver: DATA { capabilities: 
+   { alwaysMatch: { browserName: 'chrome', 'goog:chromeOptions': [Object] },
+     firstMatch: [ {} ] },
+  desiredCapabilities: 
+   { browserName: 'chrome',
+     'goog:chromeOptions': { mobileEmulation: [Object] } } }
+[0-2] 2019-02-21T08:55:52.745Z DEBUG wdio-local-runner:utils: init remote session
+[0-2] 2019-02-21T08:55:52.779Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session
+[0-2] 2019-02-21T08:55:52.779Z INFO webdriver: DATA { capabilities: { alwaysMatch: { browserName: 'chrome' }, firstMatch: [ {} ] },
+  desiredCapabilities: { browserName: 'chrome' } }
+[1-2] 2019-02-21T08:55:52.811Z INFO wdio-local-runner: Run worker command: run
+[1-2] 2019-02-21T08:55:52.814Z DEBUG wdio-local-runner:utils: initialise wdio service "selenium-standalone"
+[2-2] 2019-02-21T08:55:52.948Z INFO wdio-local-runner: Run worker command: run
+[2-2] 2019-02-21T08:55:52.951Z DEBUG wdio-local-runner:utils: initialise wdio service "selenium-standalone"
+[1-2] 2019-02-21T08:55:53.046Z DEBUG wdio-local-runner:utils: init remote session
+[1-2] 2019-02-21T08:55:53.078Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session
+[1-2] 2019-02-21T08:55:53.078Z INFO webdriver: DATA { capabilities: 
+   { alwaysMatch: { browserName: 'chrome', 'goog:chromeOptions': [Object] },
+     firstMatch: [ {} ] },
+  desiredCapabilities: 
+   { browserName: 'chrome',
+     'goog:chromeOptions': { mobileEmulation: [Object] } } }
+[2-2] 2019-02-21T08:55:53.235Z DEBUG wdio-local-runner:utils: init remote session
+[2-2] 2019-02-21T08:55:53.276Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session
+[2-2] 2019-02-21T08:55:53.276Z INFO webdriver: DATA { capabilities: 
+   { alwaysMatch: { browserName: 'chrome', 'goog:chromeOptions': [Object] },
+     firstMatch: [ {} ] },
+  desiredCapabilities: 
+   { browserName: 'chrome',
+     'goog:chromeOptions': { mobileEmulation: [Object] } } }
+[1-2] Tablet Original test...
+[1-2] 2019-02-21T08:56:09.887Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[1-2] 2019-02-21T08:56:09.888Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/80088b2e3693d5c432f5d2601460e972/url
+[1-2] 2019-02-21T08:56:09.888Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[1-0] Mobile Original isVisible starting...
+[1-0] 2019-02-21T08:56:14.758Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[1-0] 2019-02-21T08:56:14.763Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/5327e080fdf561ff834ca534f5c9c138/url
+[1-0] 2019-02-21T08:56:14.764Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[0-0] Mobile Original isVisible starting...
+[0-0] 2019-02-21T08:56:15.239Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[0-0] 2019-02-21T08:56:15.239Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/a316a87abccb8126d1d8f05b06bb80cb/url
+[0-0] 2019-02-21T08:56:15.240Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[2-2] Tablet Original test...
+[2-2] 2019-02-21T08:56:15.343Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[2-2] 2019-02-21T08:56:15.346Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/487e0706386f40a59d441edf2661b2fa/url
+[2-2] 2019-02-21T08:56:15.347Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[2-1] PC Original Visible test...
+[2-1] 2019-02-21T08:56:15.640Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[2-1] 2019-02-21T08:56:15.640Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/fad18539399e5387a1f0773848ddf9fc/url
+[2-1] 2019-02-21T08:56:15.645Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[0-1] PC Original Visible test...
+[0-1] 2019-02-21T08:56:16.207Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[0-1] 2019-02-21T08:56:16.207Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/3e0890d554aace63e04ded3189379a15/url
+[0-1] 2019-02-21T08:56:16.207Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[0-2] Tablet Original test...
+[0-2] 2019-02-21T08:56:16.223Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[0-2] 2019-02-21T08:56:16.223Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/e074c9c92cf861985260bc92e4afba3e/url
+[0-2] 2019-02-21T08:56:16.223Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[1-1] PC Original Visible test...
+[1-1] 2019-02-21T08:56:16.270Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[1-1] 2019-02-21T08:56:16.271Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/b401cc764d5d6ac67ae7818c56406847/url
+[1-1] 2019-02-21T08:56:16.271Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[2-0] Mobile Original isVisible starting...
+[2-0] 2019-02-21T08:56:18.998Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[2-0] 2019-02-21T08:56:18.999Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/d0bc633bf04f591d52870bd232a3f664/url
+[2-0] 2019-02-21T08:56:19.000Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[1-0] 2019-02-21T08:56:23.920Z INFO webdriver: COMMAND findElement("css selector", "#verify-container")
+[1-0] 2019-02-21T08:56:23.921Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/5327e080fdf561ff834ca534f5c9c138/element
+[1-0] 2019-02-21T08:56:23.921Z INFO webdriver: DATA { using: 'css selector', value: '#verify-container' }
+[1-0] 2019-02-21T08:56:24.165Z INFO webdriver: RESULT { ELEMENT: '0.8231656507261833-1' }
+[1-0] 2019-02-21T08:56:24.204Z INFO webdriver: COMMAND getElementCSSValue("0.8231656507261833-1", "display")
+[1-0] 2019-02-21T08:56:24.205Z INFO webdriver: [GET] http://127.0.0.1:4444/wd/hub/session/5327e080fdf561ff834ca534f5c9c138/element/0.8231656507261833-1/css/display
+[1-0] 2019-02-21T08:56:24.339Z INFO webdriver: RESULT none
+[1-0] Busco nonenone
+[1-0] Mobile Original Invisible ending...
+[1-0] Mobile Places isVisible starting...
+[1-0] 2019-02-21T08:56:24.343Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[1-0] 2019-02-21T08:56:24.345Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/5327e080fdf561ff834ca534f5c9c138/url
+[1-0] 2019-02-21T08:56:24.345Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[1-1] No es el dispositivo
+[1-1] PC Original Visible test finished...
+[1-1] PC Places test...
+[1-1] 2019-02-21T08:56:27.598Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[1-1] 2019-02-21T08:56:27.599Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/b401cc764d5d6ac67ae7818c56406847/url
+[1-1] 2019-02-21T08:56:27.599Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[1-2] No es el dispositivo
+[1-2] Tablet Original Invisible test finished...
+[1-2] Tablet Places test...
+[1-2] 2019-02-21T08:56:27.622Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[1-2] 2019-02-21T08:56:27.622Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/80088b2e3693d5c432f5d2601460e972/url
+[1-2] 2019-02-21T08:56:27.623Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[2-2] 2019-02-21T08:56:27.631Z INFO webdriver: COMMAND findElement("css selector", "#verify-container")
+[2-2] 2019-02-21T08:56:27.631Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/487e0706386f40a59d441edf2661b2fa/element
+[2-2] 2019-02-21T08:56:27.631Z INFO webdriver: DATA { using: 'css selector', value: '#verify-container' }
+[2-2] 2019-02-21T08:56:28.092Z INFO webdriver: RESULT { ELEMENT: '0.9431458976216762-1' }
+[2-2] 2019-02-21T08:56:28.127Z INFO webdriver: COMMAND getElementCSSValue("0.9431458976216762-1", "display")
+[2-2] 2019-02-21T08:56:28.127Z INFO webdriver: [GET] http://127.0.0.1:4444/wd/hub/session/487e0706386f40a59d441edf2661b2fa/element/0.9431458976216762-1/css/display
+[0-0] No es el dispositivo
+[0-0] Mobile Original Invisible ending...
+[0-0] Mobile Places isVisible starting...
+[0-0] 2019-02-21T08:56:29.407Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[0-0] 2019-02-21T08:56:29.407Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/a316a87abccb8126d1d8f05b06bb80cb/url
+[0-0] 2019-02-21T08:56:29.408Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[0-1] 2019-02-21T08:56:29.951Z INFO webdriver: COMMAND findElement("css selector", "#verify-container")
+[0-1] 2019-02-21T08:56:29.951Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/3e0890d554aace63e04ded3189379a15/element
+[0-1] 2019-02-21T08:56:29.951Z INFO webdriver: DATA { using: 'css selector', value: '#verify-container' }
+[2-2] 2019-02-21T08:56:30.105Z INFO webdriver: RESULT none
+[2-2] Busco nonenone
+[2-2] Tablet Original Invisible test finished...
+[2-2] Tablet Places test...
+[2-2] 2019-02-21T08:56:30.111Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[2-2] 2019-02-21T08:56:30.111Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/487e0706386f40a59d441edf2661b2fa/url
+[2-2] 2019-02-21T08:56:30.111Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[0-1] 2019-02-21T08:56:30.195Z INFO webdriver: RESULT { ELEMENT: '0.45879859065432016-1' }
+[0-1] 2019-02-21T08:56:30.245Z INFO webdriver: COMMAND getElementCSSValue("0.45879859065432016-1", "display")
+[0-1] 2019-02-21T08:56:30.246Z INFO webdriver: [GET] http://127.0.0.1:4444/wd/hub/session/3e0890d554aace63e04ded3189379a15/element/0.45879859065432016-1/css/display
+[2-1] No es el dispositivo
+[2-1] PC Original Visible test finished...
+[2-1] PC Places test...
+[2-1] 2019-02-21T08:56:30.339Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[2-1] 2019-02-21T08:56:30.339Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/fad18539399e5387a1f0773848ddf9fc/url
+[2-1] 2019-02-21T08:56:30.339Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[0-1] 2019-02-21T08:56:30.908Z INFO webdriver: RESULT block
+[0-1] Busco blockblock
+[0-1] PC Original Visible test finished...
+[0-1] PC Places test...
+[0-1] 2019-02-21T08:56:30.915Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[0-1] 2019-02-21T08:56:30.915Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/3e0890d554aace63e04ded3189379a15/url
+[0-1] 2019-02-21T08:56:30.915Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[0-2] No es el dispositivo
+[0-2] Tablet Original Invisible test finished...
+[0-2] Tablet Places test...
+[0-2] 2019-02-21T08:56:37.156Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[0-2] 2019-02-21T08:56:37.156Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/e074c9c92cf861985260bc92e4afba3e/url
+[0-2] 2019-02-21T08:56:37.156Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[2-1] No es el dispositivo
+[2-1] PC Places Visible test finished...
+[2-1] PC Form test...
+[2-1] 2019-02-21T08:56:41.987Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[2-1] 2019-02-21T08:56:41.987Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/fad18539399e5387a1f0773848ddf9fc/url
+[2-1] 2019-02-21T08:56:41.987Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[1-0] 2019-02-21T08:56:45.702Z INFO webdriver: COMMAND findElement("css selector", "#places-container")
+[1-0] 2019-02-21T08:56:45.702Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/5327e080fdf561ff834ca534f5c9c138/element
+2019-02-21T08:56:45.702Z INFO webdriver: DATA { using: 'css selector', value: '#places-container' }
+[2-2] 2019-02-21T08:56:45.757Z INFO webdriver: COMMAND findElement("css selector", "#places-container")
+[2-2] 2019-02-21T08:56:45.757Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/487e0706386f40a59d441edf2661b2fa/element
+[2-2] 2019-02-21T08:56:45.758Z INFO webdriver: DATA { using: 'css selector', value: '#places-container' }
+[2-0] No es el dispositivo
+[2-0] Mobile Original Invisible ending...
+[2-0] Mobile Places isVisible starting...
+[2-0] 2019-02-21T08:56:45.867Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[2-0] 2019-02-21T08:56:45.867Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/d0bc633bf04f591d52870bd232a3f664/url
+[2-0] 2019-02-21T08:56:45.868Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[1-0] 2019-02-21T08:56:45.975Z INFO webdriver: RESULT { ELEMENT: '0.24909795194789486-1' }
+[1-0] 2019-02-21T08:56:45.981Z INFO webdriver: COMMAND getElementCSSValue("0.24909795194789486-1", "display")
+[1-0] 2019-02-21T08:56:45.982Z INFO webdriver: [GET] http://127.0.0.1:4444/wd/hub/session/5327e080fdf561ff834ca534f5c9c138/element/0.24909795194789486-1/css/display
+[2-2] 2019-02-21T08:56:46.010Z INFO webdriver: RESULT { ELEMENT: '0.3027073524433648-1' }
+[2-2] 2019-02-21T08:56:46.017Z INFO webdriver: COMMAND getElementCSSValue("0.3027073524433648-1", "display")
+[2-2] 2019-02-21T08:56:46.018Z INFO webdriver: [GET] http://127.0.0.1:4444/wd/hub/session/487e0706386f40a59d441edf2661b2fa/element/0.3027073524433648-1/css/display
+[1-2] No es el dispositivo
+[1-2] Tablet Places Invisible finished...
+[1-2] Tablet Form test...
+[1-2] 2019-02-21T08:56:46.243Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[1-2] 2019-02-21T08:56:46.244Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/80088b2e3693d5c432f5d2601460e972/url
+[1-2] 2019-02-21T08:56:46.244Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[0-0] No es el dispositivo
+[0-0] Mobile Places isVisible ending...
+[0-0] Mobile Form isVisible starting...
+[0-0] 2019-02-21T08:56:46.304Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[0-0] 2019-02-21T08:56:46.304Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/a316a87abccb8126d1d8f05b06bb80cb/url
+[0-0] 2019-02-21T08:56:46.304Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[1-0] 2019-02-21T08:56:46.367Z INFO webdriver: RESULT block
+[1-0] Busco blockblock
+[1-0] Mobile Places isVisible ending...
+[1-0] Mobile Form isVisible starting...
+[1-0] 2019-02-21T08:56:46.370Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[1-0] 2019-02-21T08:56:46.370Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/5327e080fdf561ff834ca534f5c9c138/url
+[1-0] 2019-02-21T08:56:46.370Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[2-2] 2019-02-21T08:56:46.376Z INFO webdriver: RESULT none
+[2-2] Busco nonenone
+[2-2] Tablet Places Invisible finished...
+[2-2] Tablet Form test...
+[2-2] 2019-02-21T08:56:46.379Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[2-2] 2019-02-21T08:56:46.379Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/487e0706386f40a59d441edf2661b2fa/url
+[2-2] 2019-02-21T08:56:46.379Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[1-1] No es el dispositivo
+[1-1] PC Places Visible test finished...
+[1-1] PC Form test...
+[1-1] 2019-02-21T08:56:46.495Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[1-1] 2019-02-21T08:56:46.495Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/b401cc764d5d6ac67ae7818c56406847/url
+[1-1] 2019-02-21T08:56:46.495Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[2-2] 2019-02-21T08:56:51.480Z INFO webdriver: COMMAND findElement("css selector", "#comments-container")
+[2-2] 2019-02-21T08:56:51.480Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/487e0706386f40a59d441edf2661b2fa/element
+[2-2] 2019-02-21T08:56:51.480Z INFO webdriver: DATA { using: 'css selector', value: '#comments-container' }
+[2-1] No es el dispositivo
+[2-1] PC Form Visible test finished...
+[2-1] 2019-02-21T08:56:51.512Z INFO webdriver: COMMAND deleteSession()
+[2-1] 2019-02-21T08:56:51.512Z INFO webdriver: [DELETE] http://127.0.0.1:4444/wd/hub/session/fad18539399e5387a1f0773848ddf9fc
+[2-2] 2019-02-21T08:56:52.014Z INFO webdriver: RESULT { ELEMENT: '0.03998765721676567-1' }
+[2-0] No es el dispositivo
+[2-0] Mobile Places isVisible ending...
+[2-0] Mobile Form isVisible starting...
+[2-0] 2019-02-21T08:56:52.019Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[2-0] 2019-02-21T08:56:52.019Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/d0bc633bf04f591d52870bd232a3f664/url
+[2-0] 2019-02-21T08:56:52.019Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[2-2] 2019-02-21T08:56:52.022Z INFO webdriver: COMMAND getElementCSSValue("0.03998765721676567-1", "display")
+[2-2] 2019-02-21T08:56:52.022Z INFO webdriver: [GET] http://127.0.0.1:4444/wd/hub/session/487e0706386f40a59d441edf2661b2fa/element/0.03998765721676567-1/css/display
+[1-2] No es el dispositivo
+[1-2] Tablet Form Visible test finished...
+[1-2] 2019-02-21T08:56:52.147Z INFO webdriver: COMMAND deleteSession()
+[1-2] 2019-02-21T08:56:52.147Z INFO webdriver: [DELETE] http://127.0.0.1:4444/wd/hub/session/80088b2e3693d5c432f5d2601460e972
+[0-0] No es el dispositivo
+[0-0] Mobile Form Invisible ending...
+[0-0] 2019-02-21T08:56:52.337Z INFO webdriver: COMMAND deleteSession()
+[0-0] 2019-02-21T08:56:52.337Z INFO webdriver: [DELETE] http://127.0.0.1:4444/wd/hub/session/a316a87abccb8126d1d8f05b06bb80cb
+[1-0] 2019-02-21T08:56:52.472Z INFO webdriver: COMMAND findElement("css selector", "#comments-container")
+[1-0] 2019-02-21T08:56:52.473Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/5327e080fdf561ff834ca534f5c9c138/element
+[1-0] 2019-02-21T08:56:52.473Z INFO webdriver: DATA { using: 'css selector', value: '#comments-container' }
+[0-1] 2019-02-21T08:56:52.510Z INFO webdriver: COMMAND findElement("css selector", "#places-container")
+[0-1] 2019-02-21T08:56:52.510Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/3e0890d554aace63e04ded3189379a15/element
+[0-1] 2019-02-21T08:56:52.510Z INFO webdriver: DATA { using: 'css selector', value: '#places-container' }
+[0-2] No es el dispositivo
+[0-2] Tablet Places Invisible finished...
+[0-2] Tablet Form test...
+[0-2] 2019-02-21T08:56:52.680Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[0-2] 2019-02-21T08:56:52.680Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/e074c9c92cf861985260bc92e4afba3e/url
+[0-2] 2019-02-21T08:56:52.680Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[2-2] 2019-02-21T08:56:52.774Z INFO webdriver: RESULT block
+[2-2] Busco blockblock
+[2-2] Tablet Form Visible test finished...
+[2-2] 2019-02-21T08:56:52.776Z INFO webdriver: COMMAND deleteSession()
+[2-2] 2019-02-21T08:56:52.776Z INFO webdriver: [DELETE] http://127.0.0.1:4444/wd/hub/session/487e0706386f40a59d441edf2661b2fa
+[1-0] 2019-02-21T08:56:52.868Z INFO webdriver: RESULT { ELEMENT: '0.012637260304252163-1' }
+[1-0] 2019-02-21T08:56:52.875Z INFO webdriver: COMMAND getElementCSSValue("0.012637260304252163-1", "display")
+[1-0] 2019-02-21T08:56:52.875Z INFO webdriver: [GET] http://127.0.0.1:4444/wd/hub/session/5327e080fdf561ff834ca534f5c9c138/element/0.012637260304252163-1/css/display
+[0-1] 2019-02-21T08:56:52.887Z INFO webdriver: RESULT { ELEMENT: '0.7661759166513309-1' }
+[0-1] 2019-02-21T08:56:52.894Z INFO webdriver: COMMAND getElementCSSValue("0.7661759166513309-1", "display")
+2019-02-21T08:56:52.894Z INFO webdriver: [GET] http://127.0.0.1:4444/wd/hub/session/3e0890d554aace63e04ded3189379a15/element/0.7661759166513309-1/css/display
+[1-0] 2019-02-21T08:56:52.992Z INFO webdriver: RESULT none
+[1-0] Busco nonenone
+[1-0] Mobile Form Invisible ending...
+[0-1] 2019-02-21T08:56:52.994Z INFO webdriver: RESULT block
+[1-0] 2019-02-21T08:56:52.995Z INFO webdriver: COMMAND deleteSession()
+[0-1] Busco blockblock
+[1-0] 2019-02-21T08:56:52.996Z INFO webdriver: [DELETE] http://127.0.0.1:4444/wd/hub/session/5327e080fdf561ff834ca534f5c9c138
+[0-1] PC Places Visible test finished...
+[0-1] PC Form test...
+[0-1] 2019-02-21T08:56:53.000Z INFO webdriver: COMMAND navigateTo("http://localhost:8080/")
+[0-1] 2019-02-21T08:56:53.001Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/3e0890d554aace63e04ded3189379a15/url
+[0-1] 2019-02-21T08:56:53.001Z INFO webdriver: DATA { url: 'http://localhost:8080/' }
+[1-1] No es el dispositivo
+[1-1] PC Form Visible test finished...
+[1-1] 2019-02-21T08:56:53.331Z INFO webdriver: COMMAND deleteSession()
+[1-1] 2019-02-21T08:56:53.331Z INFO webdriver: [DELETE] http://127.0.0.1:4444/wd/hub/session/b401cc764d5d6ac67ae7818c56406847
+[2-0] No es el dispositivo
+[2-0] Mobile Form Invisible ending...
+[2-0] 2019-02-21T08:56:53.635Z INFO webdriver: COMMAND deleteSession()
+[2-0] 2019-02-21T08:56:53.635Z INFO webdriver: [DELETE] http://127.0.0.1:4444/wd/hub/session/d0bc633bf04f591d52870bd232a3f664
+[0-1] 2019-02-21T08:56:54.499Z INFO webdriver: COMMAND findElement("css selector", "#comments-container")
+[0-1] 2019-02-21T08:56:54.500Z INFO webdriver: [POST] http://127.0.0.1:4444/wd/hub/session/3e0890d554aace63e04ded3189379a15/element
+[0-1] 2019-02-21T08:56:54.500Z INFO webdriver: DATA { using: 'css selector', value: '#comments-container' }
+2019-02-21T08:56:54.521Z DEBUG wdio-local-runner: Runner 2-0 finished with exit code 0
+[0-2] No es el dispositivo
+[0-2] Tablet Form Visible test finished...
+[0-2] 2019-02-21T08:56:54.532Z INFO webdriver: COMMAND deleteSession()
+[0-2] 2019-02-21T08:56:54.532Z INFO webdriver: [DELETE] http://127.0.0.1:4444/wd/hub/session/e074c9c92cf861985260bc92e4afba3e
+[0-1] 2019-02-21T08:56:54.581Z INFO webdriver: RESULT { ELEMENT: '0.03511459289585184-1' }
+[0-1] 2019-02-21T08:56:54.589Z INFO webdriver: COMMAND getElementCSSValue("0.03511459289585184-1", "display")
+[0-1] 2019-02-21T08:56:54.590Z INFO webdriver: [GET] http://127.0.0.1:4444/wd/hub/session/3e0890d554aace63e04ded3189379a15/element/0.03511459289585184-1/css/display
+[0-1] 2019-02-21T08:56:54.620Z INFO webdriver: RESULT block
+[0-1] Busco blockblock
+[0-1] PC Form Visible test finished...
+[0-1] 2019-02-21T08:56:54.622Z INFO webdriver: COMMAND deleteSession()
+[0-1] 2019-02-21T08:56:54.622Z INFO webdriver: [DELETE] http://127.0.0.1:4444/wd/hub/session/3e0890d554aace63e04ded3189379a15
+2019-02-21T08:56:54.881Z DEBUG wdio-local-runner: Runner 0-1 finished with exit code 0
+2019-02-21T08:56:55.113Z DEBUG wdio-local-runner: Runner 2-2 finished with exit code 0
+2019-02-21T08:56:55.140Z DEBUG wdio-local-runner: Runner 1-0 finished with exit code 0
+2019-02-21T08:56:55.143Z DEBUG wdio-local-runner: Runner 1-1 finished with exit code 0
+2019-02-21T08:56:55.379Z DEBUG wdio-local-runner: Runner 2-1 finished with exit code 0
+2019-02-21T08:56:55.380Z DEBUG wdio-local-runner: Runner 0-0 finished with exit code 0
+2019-02-21T08:56:55.426Z DEBUG wdio-local-runner: Runner 1-2 finished with exit code 0
+2019-02-21T08:56:55.569Z DEBUG wdio-local-runner: Runner 0-2 finished with exit code 0
+2019-02-21T08:56:55.569Z INFO wdio-cli:Launcher: Run onComplete hook
+
+Test Suites:	 9 passed, 9 total (100% completed)
+[1K[GTime:		 🕘  67.53s
+

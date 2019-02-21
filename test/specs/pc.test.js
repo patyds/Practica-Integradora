@@ -7,11 +7,15 @@ describe("PC Original Visible", () => {
 
     it('PC Original Visible Test',() => {
         browser.url('/');
-        var verifyDiv = $('#verify-container');
-        var verifyFrameDisplay = verifyDiv.getCSSProperty('display');
-        console.log(verifyFrameDisplay);
-        assert.equal(verifyFrameDisplay.value, 'block');
-
+        if(typeof (browser.config.capabilities['goog:chromeOptions']) === "undefined") {
+            var verifyDiv = $('#verify-container');
+            var verifyFrameDisplay = verifyDiv.getCSSProperty('display');
+            console.log('Busco block'+verifyFrameDisplay.value);
+            assert.equal(verifyFrameDisplay.value, 'block', "Es Visible");
+        }else{
+            console.log('No es el dispositivo');
+            assert.equal(true, true, 'No es el dispositivo');
+        }
     });
 
     after(()=>{
@@ -26,11 +30,15 @@ describe("PC Places Visible", () => {
 
     it('PC Places Visible Test',() => {
         browser.url('/');
-        var placesDiv = $('#places-container');
-        var placesFrameDisplay = placesDiv.getCSSProperty('display');
-        console.log(placesFrameDisplay);
-        assert.equal(placesFrameDisplay.value, 'block');
-
+        if(typeof (browser.config.capabilities['goog:chromeOptions']) === "undefined") {
+            var placesDiv = $('#places-container');
+            var placesFrameDisplay = placesDiv.getCSSProperty('display');
+            console.log('Busco block'+placesFrameDisplay.value);
+            assert.equal(placesFrameDisplay.value, 'block', 'Es visible');
+        }else{
+            console.log('No es el dispositivo');
+            assert.equal(true, true, 'No es el dispositivo');
+        }
     });
 
     after(()=>{
@@ -45,10 +53,16 @@ describe("PC Form Visible", () => {
 
     it('PC Form Visible Test',() => {
         browser.url('/');
-        var commentsDiv = $('#comments-container');
-        var commentsFrameDisplay = commentsDiv.getCSSProperty('display');
-        console.log(commentsFrameDisplay);
-        assert.equal(commentsFrameDisplay.value, 'block');
+        if(typeof (browser.config.capabilities['goog:chromeOptions']) === "undefined") {
+            var commentsDiv = $('#comments-container');
+            var commentsFrameDisplay = commentsDiv.getCSSProperty('display');
+            console.log('Busco block'+commentsFrameDisplay.value);
+            assert.equal(commentsFrameDisplay.value, 'block', 'Es visible');
+        }else{
+            console.log('No es el dispositivo');
+            assert.equal(true, true, 'No es el dispositivo');
+        }
+
 
     });
 
