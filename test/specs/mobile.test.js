@@ -7,8 +7,8 @@ describe("Mobile Original Visible", () => {
     it('Display none',function(done){
         browser.options({
             browserName: 'chrome', // options: `firefox`, `chrome`, `opera`, `safari`
-            browserVersion: '27.0', // browser version
-            platformName: 'Windows 10' // OS platform
+            browserVersion: '72.0', // browser version
+            platformName: 'iPhone 8 Plus' // OS platform
         });
         browser.url('/');
         var containerV= $('#verify-container');
@@ -17,7 +17,7 @@ describe("Mobile Original Visible", () => {
         browser.call(done);
     });
     after(() => {
-        console.log('Mobile Original isVisible ending...');
+        console.log('Mobile Original Invisible ending...');
     });
 });
 
@@ -28,8 +28,8 @@ describe("Mobile Places Visible", () => {
     it('Display block',function(done){
         browser.options({
             browserName: 'chrome', // options: `firefox`, `chrome`, `opera`, `safari`
-            browserVersion: '27.0', // browser version
-            platformName: 'iPhone 8' // OS platform
+            browserVersion: '72.0', // browser version
+            platformName: 'iPhone 8 Plus' // OS platform
         });
         browser.url('/');
         var containerV= $('#verify-container');
@@ -49,8 +49,8 @@ describe("Mobile Form Visible", () => {
     it('Display none',function(done){
         browser.options({
             browserName: 'chrome', // options: `firefox`, `chrome`, `opera`, `safari`
-            browserVersion: '27.0', // browser version
-            platformName: 'iPad' // OS platform
+            browserVersion: '72.0', // browser version
+            platformName: 'iPhone 8 Plus' // OS platform
         });
         browser.url('/');
         var containerV= $('#verify-container');
@@ -59,6 +59,6 @@ describe("Mobile Form Visible", () => {
         browser.call(done);
     });
     after(() => {
-        console.log('Mobile Form isVisible ending...');
+        console.log('Mobile Form Invisible ending...');
     });
 });
