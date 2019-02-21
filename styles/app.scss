@@ -76,10 +76,16 @@
             width: 50%;
         }
     }
+
+    @media screen and (max-width: 960px) {
+        display: none;
+    }
 }
 
 #places-container {
-
+    @media screen and (min-width: 600px) and (max-width: 959px) {
+        display: none;
+    }
 }
 
 #comments-container {
@@ -92,5 +98,13 @@
         input {
             width: 100%;
         }
+    }
+
+    textarea {
+        background-color: white;
+    }
+
+    @media screen and (max-width: 599px) {
+        display: none;
     }
 }
