@@ -5,6 +5,11 @@ describe("Mobile Original Visible", () => {
         console.log('Mobile Original isVisible starting...');
     });
     it('Display none',function(done){
+        browser.options({
+            browserName: 'chrome', // options: `firefox`, `chrome`, `opera`, `safari`
+            browserVersion: '27.0', // browser version
+            platformName: 'Windows 10' // OS platform
+        });
         browser.url('/');
         var containerV= $('#verify-container');
         var displayP = containerV.getCSSProperty('display');
@@ -21,6 +26,11 @@ describe("Mobile Places Visible", () => {
         console.log('Mobile Places isVisible starting...');
     });
     it('Display block',function(done){
+        browser.options({
+            browserName: 'chrome', // options: `firefox`, `chrome`, `opera`, `safari`
+            browserVersion: '27.0', // browser version
+            platformName: 'iPhone 8' // OS platform
+        });
         browser.url('/');
         var containerV= $('#verify-container');
         var displayP = containerV.getCSSProperty('display');
@@ -37,6 +47,11 @@ describe("Mobile Form Visible", () => {
         console.log('Mobile Form isVisible starting...');
     });
     it('Display none',function(done){
+        browser.options({
+            browserName: 'chrome', // options: `firefox`, `chrome`, `opera`, `safari`
+            browserVersion: '27.0', // browser version
+            platformName: 'iPad' // OS platform
+        });
         browser.url('/');
         var containerV= $('#verify-container');
         var displayP = containerV.getCSSProperty('display');
