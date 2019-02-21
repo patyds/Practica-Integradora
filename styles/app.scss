@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,700');
 @import "@material/textfield/mdc-text-field";
-// @import "@material/textfield/mdc-text-area";
 @import "@material/layout-grid/mdc-layout-grid";
 @import "@material/button/mdc-button";
+@import "@material/list/mdc-list";
 
 * {
     padding: 0;
@@ -87,6 +87,10 @@
 
 #places-container {
     display: block;
+
+    iframe {
+        margin-top: 20px;
+    }
 
     @media screen and (min-width: 600px) and (max-width: 959px) {
         display: none;
