@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,700');
 @import "@material/textfield/mdc-text-field";
+// @import "@material/textfield/mdc-text-area";
 @import "@material/layout-grid/mdc-layout-grid";
 @import "@material/button/mdc-button";
 
@@ -33,6 +34,8 @@
 }
 
 #verify-container {
+    display: block;
+
     .mdc-text-field.mdc-ripple-upgraded {
         margin-top: 20px;
         width: 100%;
@@ -83,25 +86,45 @@
 }
 
 #places-container {
+    display: block;
+
     @media screen and (min-width: 600px) and (max-width: 959px) {
         display: none;
     }
 }
 
 #comments-container {
+    display: block;
     color: white;
     background-color: black;
 
     .mdc-text-field {
         margin-top: 20px;
         width: 100%;
-        input {
+        
+        textarea {
             width: 100%;
+            border: 1px solid white;
+            color: white;
+            resize: none;
+        }
+
+        label[for="textarea"] {
+            color: white;
         }
     }
 
-    textarea {
-        background-color: white;
+    .comment-field {
+        margin-bottom: 20px;
+    }
+
+    .mdc-button {
+        width: 100%;
+        border: 1px solid white;
+
+        span {
+            color: white;
+        }
     }
 
     @media screen and (max-width: 599px) {

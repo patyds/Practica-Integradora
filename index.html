@@ -49,20 +49,20 @@
         <div id="places-container" class="container">
             <div class="mdc-layout-grid">
                 <div class="mdc-layout-grid__inner">
-                    <div class="mdc-layout-grid__cell--span-6">
+                    <div class="mdc-layout-grid__cell--span-6-desktop mdc-layout-grid__cell--span-4-phone">
                         <h1>Ubica tiendas cerca de ti</h1>
                         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15063.685826030987!2d-99.13918360000001!3d19.28578155!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce01059b077ca1%3A0x129534395a02e72a!2sTecnol%C3%B3gico+de+Monterrey+Ciudad+de+M%C3%A9xico!5e0!3m2!1ses-419!2smx!4v1550716091323"
-                        width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
-                    <div class="mdc-layout-grid__cell--span-6"></div>
+                    <div class="mdc-layout-grid__cell--span-6-desktop mdc-layout-grid__cell--span-4-phone"></div>
                 </div>
             </div>
         </div>
         <div id="comments-container" class="container">
                 <div class="mdc-layout-grid">
                     <div class="mdc-layout-grid__inner">
-                        <div class="mdc-layout-grid__cell--span-4"></div>
-                        <div class="mdc-layout-grid__cell--span-4">
+                        <div class="mdc-layout-grid__cell--span-4-desktop"></div>
+                        <div class="mdc-layout-grid__cell--span-4-desktop mdc-layout-grid__cell--span-8-tablet">
                             <h1>Envíanos comentarios</h1>
                             <form action="./grax.html">
                                 <!-- No. identificación, Nombre, correo, comentario, botón -->
@@ -88,20 +88,23 @@
                                     </div>
                                 </div>
                                 <div class="field">
-                                    <div class="mdc-text-field text-field mdc-text-field--textarea">
-                                        <textarea id="comment-field" class="mdc-text-field__input" rows="8" cols="40"></textarea>
-                                        <div class="mdc-notched-outline">
-                                            <div class="mdc-notched-outline__leading"></div>
-                                            <div class="mdc-notched-outline__notch">
-                                                <label for="textarea" class="mdc-floating-label">Textarea Label</label>
+                                        <div class="mdc-text-field mdc-text-field--textarea comment-field mdc-text-field--outlined">
+                                            <textarea id="textarea" class="mdc-text-field__input" rows="8" cols="40"></textarea>
+                                            <div class="mdc-notched-outline">
+                                                <div class="mdc-notched-outline__leading"></div>
+                                                <div class="mdc-notched-outline__notch">
+                                                <label for="textarea" class="mdc-floating-label">Comentario</label>
+                                                </div>
+                                                <div class="mdc-notched-outline__trailing"></div>
                                             </div>
-                                            <div class="mdc-notched-outline__trailing"></div>
                                         </div>
-                                    </div>
                                 </div>
+                                <button class="mdc-button">
+                                    <span class="mdc-button__label">Enviar</span>
+                                </button>
                             </form>
                         </div>
-                        <div class="mdc-layout-grid__cell--span-4"></div>
+                        <div class="mdc-layout-grid__cell--span-4-desktop"></div>
                     </div>
                 </div>
         </div>
