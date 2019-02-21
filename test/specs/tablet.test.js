@@ -1,25 +1,70 @@
 var assert = require('assert');
 
-describe("Tablet Original Visible", function(done) {
-    browser.url('/');
-    var verifyDiv = $('#verify-container');
-    var verifyFrameDisplay = verifyDiv.getCSSProperty('display');
-    assert.equal(verifyFrameDisplay.value, 'none');
-    browser.call(done);
+describe("Tablet Original Visible", () => {
+    before(()=>{
+        console.log('Tablet Original test...');
+    });
+
+    it('Tablet Original Visible Test',function(done) {
+        browser.options({
+            browserName: 'chrome', // options: `firefox`, `chrome`, `opera`, `safari`
+            browserVersion: '72.0', // browser version
+            platformName: 'iPad' // OS platform
+        });
+        browser.url('/');
+        var verifyDiv = $('#verify-container');
+        var verifyFrameDisplay = verifyDiv.getCSSProperty('display');
+        assert.equal(verifyFrameDisplay.value, 'none');
+        browser.call(done);
+    });
+
+    after(()=>{
+        console.log('Tablet Original Invisible test finished...');
+    });
 });
 
-describe("Tablet Places Visible", function(done) {
-    browser.url('/');
-    var placesDiv = $('#places-container');
-    var placesFrameDisplay = placesDiv.getCSSProperty('display');
-    assert.equal(placesFrameDisplay.value, 'none');
-    browser.call(done);
+describe("Tablet Places Visible", () => {
+    before(()=>{
+        console.log('Tablet Places test...');
+    });
+
+    it('Tablet Places Visible Test',function(done) {
+        browser.options({
+            browserName: 'chrome', // options: `firefox`, `chrome`, `opera`, `safari`
+            browserVersion: '72.0', // browser version
+            platformName: 'iPad' // OS platform
+        });
+        browser.url('/');
+        var placesDiv = $('#places-container');
+        var placesFrameDisplay = placesDiv.getCSSProperty('display');
+        assert.equal(placesFrameDisplay.value, 'none');
+        browser.call(done);
+    });
+
+    after(()=>{
+        console.log('Tablet Places Invisible finished...');
+    });
 });
 
-describe("Tablet Form Visible", function(done) {
-    browser.url('/');
-    var commentsDiv = $('#comments-container');
-    var commentsFrameDisplay = commentsDiv.getCSSProperty('display');
-    assert.equal(commentsFrameDisplay.value, 'block');
-    browser.call(done);
+describe("Tablet Form Visible", () => {
+    before(()=>{
+        console.log('Tablet Form test...');
+    });
+
+    it('Tablet Form Visible Test',function(done) {
+        browser.options({
+            browserName: 'chrome', // options: `firefox`, `chrome`, `opera`, `safari`
+            browserVersion: '72.0', // browser version
+            platformName: 'iPad' // OS platform
+        });
+        browser.url('/');
+        var commentsDiv = $('#comments-container');
+        var commentsFrameDisplay = commentsDiv.getCSSProperty('display');
+        assert.equal(commentsFrameDisplay.value, 'block');
+        browser.call(done);
+    });
+
+    after(()=>{
+        console.log('Tablet Form Visible test finished...');
+    });
 });

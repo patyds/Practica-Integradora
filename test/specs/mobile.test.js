@@ -5,6 +5,11 @@ describe("Mobile Original Visible", () => {
         console.log('Mobile Original isVisible starting...');
     });
     it('Display none',function(done){
+        browser.options({
+            browserName: 'chrome', // options: `firefox`, `chrome`, `opera`, `safari`
+            browserVersion: '72.0', // browser version
+            platformName: 'iPhone 8 Plus' // OS platform
+        });
         browser.url('/');
         var containerV= $('#verify-container');
         var displayP = containerV.getCSSProperty('display');
@@ -12,7 +17,7 @@ describe("Mobile Original Visible", () => {
         browser.call(done);
     });
     after(() => {
-        console.log('Mobile Original isVisible ending...');
+        console.log('Mobile Original Invisible ending...');
     });
 });
 
@@ -21,6 +26,11 @@ describe("Mobile Places Visible", () => {
         console.log('Mobile Places isVisible starting...');
     });
     it('Display block',function(done){
+        browser.options({
+            browserName: 'chrome', // options: `firefox`, `chrome`, `opera`, `safari`
+            browserVersion: '72.0', // browser version
+            platformName: 'iPhone 8 Plus' // OS platform
+        });
         browser.url('/');
         var containerV= $('#verify-container');
         var displayP = containerV.getCSSProperty('display');
@@ -37,6 +47,11 @@ describe("Mobile Form Visible", () => {
         console.log('Mobile Form isVisible starting...');
     });
     it('Display none',function(done){
+        browser.options({
+            browserName: 'chrome', // options: `firefox`, `chrome`, `opera`, `safari`
+            browserVersion: '72.0', // browser version
+            platformName: 'iPhone 8 Plus' // OS platform
+        });
         browser.url('/');
         var containerV= $('#verify-container');
         var displayP = containerV.getCSSProperty('display');
@@ -44,6 +59,6 @@ describe("Mobile Form Visible", () => {
         browser.call(done);
     });
     after(() => {
-        console.log('Mobile Form isVisible ending...');
+        console.log('Mobile Form Invisible ending...');
     });
 });

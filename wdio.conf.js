@@ -47,16 +47,22 @@ exports.config = {
     // https://docs.saucelabs.com/reference/platforms-configurator
     //
     capabilities: [{
-        maxInstances: 5,
+        //PC
+        maxInstances: 1,
+        browserName: 'chrome',
+    },{
+        //Mobile
+        maxInstances: 1,
         browserName: 'chrome',
         'goog:chromeOptions': {
             "mobileEmulation":{"deviceName": "iPhone 8 Plus"},
-
-            "mobileEmulation" : {
-                "deviceMetrics": { "width": 360, "height": 640, "pixelRatio": 3.0 },
-                "userAgent": "Mozilla/5.0 (Linux; Android 4.2.1; en-us; Nexus 5 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19" }
-
-
+        }
+    }, {
+        //Tablet
+        maxInstances: 1,
+        browserName: 'chrome',
+        'goog:chromeOptions': {
+            "mobileEmulation":{"deviceName": "iPad"},
         }
     }],
     //
