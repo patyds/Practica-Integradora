@@ -1,11 +1,11 @@
-var assert = require('assert');
+var assert = require('chai').expect;
 
 describe("Tablet Original Visible", () => {
     before(()=>{
         console.log('Tablet Original test...');
     });
 
-    it('Tablet Original Visible Test',function(done) {
+    it('Tablet Original Visible Test',() => {
         browser.options({
             browserName: 'chrome', // options: `firefox`, `chrome`, `opera`, `safari`
             browserVersion: '72.0', // browser version
@@ -14,8 +14,9 @@ describe("Tablet Original Visible", () => {
         browser.url('/');
         var verifyDiv = $('#verify-container');
         var verifyFrameDisplay = verifyDiv.getCSSProperty('display');
-        assert.equal(verifyFrameDisplay.value, 'none');
-        browser.call(done);
+        console.log(verifyFrameDisplay);
+        assert(verifyFrameDisplay.value).to.equal('none');
+
     });
 
     after(()=>{
@@ -28,7 +29,7 @@ describe("Tablet Places Visible", () => {
         console.log('Tablet Places test...');
     });
 
-    it('Tablet Places Visible Test',function(done) {
+    it('Tablet Places Visible Test',() => {
         browser.options({
             browserName: 'chrome', // options: `firefox`, `chrome`, `opera`, `safari`
             browserVersion: '72.0', // browser version
@@ -37,8 +38,8 @@ describe("Tablet Places Visible", () => {
         browser.url('/');
         var placesDiv = $('#places-container');
         var placesFrameDisplay = placesDiv.getCSSProperty('display');
-        assert.equal(placesFrameDisplay.value, 'none');
-        browser.call(done);
+        console.log(placesFrameDisplay);
+        assert(placesFrameDisplay.value).to.equal('none');
     });
 
     after(()=>{
@@ -51,7 +52,7 @@ describe("Tablet Form Visible", () => {
         console.log('Tablet Form test...');
     });
 
-    it('Tablet Form Visible Test',function(done) {
+    it('Tablet Form Visible Test',() => {
         browser.options({
             browserName: 'chrome', // options: `firefox`, `chrome`, `opera`, `safari`
             browserVersion: '72.0', // browser version
@@ -60,8 +61,8 @@ describe("Tablet Form Visible", () => {
         browser.url('/');
         var commentsDiv = $('#comments-container');
         var commentsFrameDisplay = commentsDiv.getCSSProperty('display');
-        assert.equal(commentsFrameDisplay.value, 'block');
-        browser.call(done);
+        console.log(commentsFrameDisplay);
+        assert(commentsFrameDisplay.value).to.equal('block');
     });
 
     after(()=>{

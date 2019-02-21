@@ -27,6 +27,7 @@
     "@material/select": "^0.44.0",
     "@material/snackbar": "^0.44.0",
     "@material/textfield": "^0.44.0",
+    "chai": "^4.2.0",
     "chromedriver": "^2.46.0",
     "selenium-standalone": "^6.15.4"
   },
